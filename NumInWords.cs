@@ -101,7 +101,7 @@ namespace DOTNETPRACTICE
 
                 }
 
-                Console.WriteLine(words+" Received on Phone Pay Thank You Boss!!\n");
+                Console.WriteLine(words+"Rupees Received on Phone Pay Thank You Boss!!\n");
             }while (num!=-1);
 
 

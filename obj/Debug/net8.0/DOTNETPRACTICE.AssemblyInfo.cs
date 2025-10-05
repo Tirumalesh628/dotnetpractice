@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DOTNETPRACTICE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fa1f222c17665a30530347ee413fb8c72e66d0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f4030df891c6771f3894ba7ef8ae5c0332329b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("DOTNETPRACTICE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DOTNETPRACTICE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
