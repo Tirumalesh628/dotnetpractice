@@ -50,7 +50,7 @@ namespace DOTNETPRACTICE
                         words += " " + ones[value] + " " + "Hundrade";
 
                     }
-                    else if (num > 19999 && num < 99999)
+                    else if (num > 19999 && num <= 99999)
                     {
                         value = num / 10000;
                         num = num - value * 10000;
@@ -58,9 +58,9 @@ namespace DOTNETPRACTICE
 
                     }
 
-                    else if (num > 999 && num < 99999)
+                    else if (num > 999 && num <=99999)
                     {
-                        if (num > 19999 && num < 99999)
+                        if (num > 19999 && num <=99999)
                         {
                             value = num / 10000;
                             num = num - value * 10000;
@@ -76,7 +76,7 @@ namespace DOTNETPRACTICE
 
                     }
                     
-                    else if (num > 199999 && num < 999999)
+                    else if (num > 199999 && num <= 999999)
                     {
                         value = num / 100000;
                         num = num - value * 100000;
@@ -84,7 +84,7 @@ namespace DOTNETPRACTICE
 
                     }
 
-                    else if (num > 99999 && num < 999999)
+                    else if (num > 99999 && num <= 999999)
                     {
                         value = num / 100000;
                         num = num - value * 100000;
@@ -101,7 +101,7 @@ namespace DOTNETPRACTICE
 
                 }
 
-                Console.WriteLine(words);
+                Console.WriteLine(words+" Received on Phone Pay Thank You Boss!!\n");
             }while (num!=-1);
 
 
