@@ -1,5 +1,6 @@
-﻿using System;
+﻿using DOTNETPRACTICE;
 using DOTNETPRACTICE.datatypes;
+using System;
 class Ganesha
 {
 
@@ -16,8 +17,12 @@ class Ganesha
         //Practice1 practice1 = new Practice1();
         //practice1.CreatePerson();
         //practice1.DisplayDetails();
-        Calculator cal = new Calculator();
-        cal.Cal();
+        //Calculator cal = new Calculator();
+        //cal.Cal();
+
+
+        NumInWords number = new NumInWords();
+        number.numinwords();
 
 
 

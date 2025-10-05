@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TIRUMALUSH N K\\Source\\Repos\\dotnetpractice1\\DOTNETPRACTICE.csproj": {}
+    "C:\\Users\\TIRUMALUSH N K\\Source\\Repos\\dotnetpractice\\DOTNETPRACTICE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TIRUMALUSH N K\\Source\\Repos\\dotnetpractice1\\DOTNETPRACTICE.csproj": {
+    "C:\\Users\\TIRUMALUSH N K\\Source\\Repos\\dotnetpractice\\DOTNETPRACTICE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TIRUMALUSH N K\\Source\\Repos\\dotnetpractice1\\DOTNETPRACTICE.csproj",
+        "projectUniqueName": "C:\\Users\\TIRUMALUSH N K\\Source\\Repos\\dotnetpractice\\DOTNETPRACTICE.csproj",
         "projectName": "DOTNETPRACTICE",
-        "projectPath": "C:\\Users\\TIRUMALUSH N K\\Source\\Repos\\dotnetpractice1\\DOTNETPRACTICE.csproj",
+        "projectPath": "C:\\Users\\TIRUMALUSH N K\\Source\\Repos\\dotnetpractice\\DOTNETPRACTICE.csproj",
         "packagesPath": "C:\\Users\\TIRUMALUSH N K\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TIRUMALUSH N K\\Source\\Repos\\dotnetpractice1\\obj\\",
+        "outputPath": "C:\\Users\\TIRUMALUSH N K\\Source\\Repos\\dotnetpractice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
